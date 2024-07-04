@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Avadhut Nangare Patil! 👋
 
 ## 🚀 About Me
 
@@ -7,43 +7,42 @@ I'm a final year B.Tech CSE student passionate about technology and its applicat
 ## 🛠️ Skills & Technologies
 
 - **Languages**: 
-  - C
-  - C++
-  - Java
-  - Python
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 - **Web Development**:
-  - HTML
-  - CSS
-  - JavaScript
-  - React.js
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 - **Full Stack Development**:
-  - Java Full Stack Development (Spring Boot, Hibernate, etc.)
-  - Database Management (MySQL, MongoDB, etc.)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 📚 What I'm Learning
 
-- Advanced JavaScript frameworks
-- Cloud Computing (AWS, Azure)
-- Machine Learning and AI
+- ![Advanced JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black) frameworks
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) Cloud Computing
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=machine-learning&logoColor=white) and ![AI](https://img.shields.io/badge/AI-0071C5?style=flat&logo=artificial-intelligence&logoColor=white)
 
 ## 🌱 Projects
 
-### Expense Tracker
-A React app for tracking expenses, managing categories, and setting budgets.
-
-### Online Bookstore
-A full-stack Java application with Spring Boot backend and React frontend, managing book inventory and user orders.
-
-### Chat Application
-A real-time chat application using Java and WebSockets for seamless communication.
+<ul>
+  <li><a href="https://github.com/Anpatil1/sentiment-analysis" target="_blank">Project 1</a> </li>
+  <li><a href="https://github.com/Anpatil1/expense-management-web-application target="_blank">Project 2</a></li>
+  <li><a href="https://github.com/Anpatil1/ipl-win-prediction." target="_blank">Project 3</a> </li>
+</ul>
 
 ## 📫 How to reach me
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/your-profile)
+- **Email**: [nangareavadhut@gmail.com]
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/avadhut-nangare-patil-470901250/)
 
 ## ⚡ Fun Fact
 
@@ -53,5 +52,4 @@ I love exploring new technologies and keeping myself updated with the latest tre
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on any projects or just have a chat about tech!
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-username?style=social)](https://twitter.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/Anpatil1?label=Follow&style=social)](https://github.com/Anpatil1)
