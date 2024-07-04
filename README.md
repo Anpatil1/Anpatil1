@@ -42,7 +42,7 @@ I'm a final year B.Tech CSE student passionate about technology and its applicat
 ## 📫 How to reach me
 
 - **Email**: [nangareavadhut@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/avadhut-nangare-patil-470901250/)
+- **LinkedIn**: [Avadhut Nangare Patil](https://www.linkedin.com/in/avadhut-nangare-patil-470901250/)
 
 ## ⚡ Fun Fact
 
