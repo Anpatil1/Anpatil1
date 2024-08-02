@@ -1,8 +1,13 @@
 # Hi there, I'm Avadhut Nangare Patil! 👋
 
+
 ## 🚀 About Me
 
-I'm a final year B.Tech CSE student passionate about technology and its applications in solving real-world problems. I have a diverse skill set and hands-on experience in multiple programming languages and development frameworks.
+- 🎓 Recent B.Tech CSE graduate (Class of 2024)
+- 💻 Passionate about technology and its real-world applications
+- 🛠️ Diverse skill set with hands-on experience in multiple programming languages and development frameworks
+- 🌟 Eager to apply my knowledge and skills to solve complex problems
+- 🔍 Currently exploring new opportunities in the tech industry
 
 ## 🛠️ Skills & Technologies
 
