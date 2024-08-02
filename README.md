@@ -35,8 +35,8 @@ I'm a final year B.Tech CSE student passionate about technology and its applicat
 
 <ul>
   <li><a href="https://github.com/Anpatil1/sentiment-analysis" target="_blank">sentiment-analysis of top engineering college in Maharashtra </a> </li>
-  <li><a href="https://github.com/Anpatil1/expense-management-web-application target="_blank">Project 2</a></li>
-  <li><a href="https://github.com/Anpatil1/ipl-win-prediction." target="_blank">Project 3</a> </li>
+  <li><a href="https://github.com/Anpatil1/expense-management-web-application target="_blank">expense-management-web-application</a></li>
+  <li><a href="https://github.com/Anpatil1/ipl-win-prediction." target="_blank">ipl-win-prediction app  </a> </li>
 </ul>
 
 ## 📫 How to reach me
