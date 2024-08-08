@@ -40,7 +40,7 @@
 
 <ul>
   <li><a href="https://github.com/Anpatil1/sentiment-analysis" target="_blank">sentiment-analysis of top engineering college in Maharashtra </a> </li>
-  <li><a href="https://github.com/Anpatil1/expense-management-web-application target="_blank">expense-management-web-application</a></li>
+  <li><a href="https://github.com/Anpatil1/expense-mgmt-frontend" target="_blank">expense-management-web-application</a></li>
   <li><a href="https://github.com/Anpatil1/ipl-win-prediction." target="_blank">ipl-win-prediction app  </a> </li>
 </ul>
 
