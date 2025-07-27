@@ -1,62 +1,101 @@
-# Hi there, I'm Avadhut Nangare Patil! 👋
+Hi there, I'm Avadhut Nangare Patil! 👋
+<p align="center">
+<a href="https://github.com/Anpatil1">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAnpatil1%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Avadhut's GitHub Stats" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Anpatil1">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAnpatil1%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
+</a>
+</p>
 
+🚀 About Me
+I'm a recent B.Tech graduate in Computer Science and Engineering (Class of 2024) with a strong passion for leveraging technology to build real-world solutions. I possess a diverse skill set and hands-on experience across various programming languages and development frameworks. I am actively seeking challenging opportunities to apply my problem-solving abilities and contribute to innovative projects in the tech industry.
 
-## 🚀 About Me
+🎓 Education: B.Tech in Computer Science & Engineering
 
-- 🎓 Recent B.Tech CSE graduate (Class of 2024)
-- 💻 Passionate about technology and its real-world applications
-- 🛠️ Diverse skill set with hands-on experience in multiple programming languages and development frameworks
-- 🌟 Eager to apply my knowledge and skills to solve complex problems
-- 🔍 Currently exploring new opportunities in the tech industry
+💼 Status: Open to new opportunities and collaborations
 
-## 🛠️ Skills & Technologies
+💡 Interests: Full Stack Development, Cloud Computing, and Artificial Intelligence
 
-- **Languages**: 
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+🛠️ My Tech Stack
+Here are some of the technologies I've been working with:
 
-- **Web Development**:
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+<table width="100%">
+<tr>
+<td align="center" width="180">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,java,python" alt="Programming Languages" />
+<br><strong>Languages</strong>
+</td>
+<td align="center" width="180">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,javascript,react" alt="Frontend Development" />
+<br><strong>Frontend</strong>
+</td>
+<td align="center" width="180">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dspring,hibernate,mysql,mongodb" alt="Backend & Databases" />
+<br><strong>Backend & Databases</strong>
+</td>
+<td align="center" width="180">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,idea" alt="Tools & IDEs" />
+<br><strong>Tools & IDEs</strong>
+</td>
+</tr>
+</table>
 
-- **Full Stack Development**:
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+🌱 What I'm Currently Learning
+I believe in continuous learning and am currently expanding my expertise in:
 
-## 📚 What I'm Learning
+Cloud Platforms: Diving deeper into AWS and Azure for scalable and resilient architecture.
 
-- ![Advanced JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black) frameworks
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) Cloud Computing
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=machine-learning&logoColor=white) and ![AI](https://img.shields.io/badge/AI-0071C5?style=flat&logo=artificial-intelligence&logoColor=white)
+Advanced Web: Mastering modern JavaScript (ES6+) concepts and exploring new frontend frameworks.
 
-## 🌱 Projects
+AI/ML: Exploring the fundamentals of Machine Learning and Artificial Intelligence to build intelligent systems.
 
-<ul>
-  <li><a href="https://github.com/Anpatil1/sentiment-analysis" target="_blank">sentiment-analysis of top engineering college in Maharashtra </a> </li>
-  <li><a href="https://github.com/Anpatil1/expense-mgmt-frontend" target="_blank">expense-management-web-application</a></li>
-  <li><a href="https://github.com/Anpatil1/ipl-win-prediction." target="_blank">ipl-win-prediction app  </a> </li>
-  <li><a href="https://github.com/Anpatil1/real-spring-chat" target="_blank">real-spring-chat app  </a> </li>
+🌟 Featured Projects
+Here are some of the projects I'm proud of. You can find more on my repositories page!
 
-</ul>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Anpatil1/sentiment-analysis" target="_blank">Sentiment Analysis of Engineering Colleges</a></h3>
+<p>Analyzed public sentiment towards top engineering colleges in Maharashtra using NLP techniques. The project scrapes data, processes it, and classifies the sentiment to provide valuable insights.</p>
+<p><strong>Technologies:</strong> Python, NLTK, Scikit-learn, Pandas</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Anpatil1/expense-mgmt-frontend" target="_blank">Expense Management Web App</a></h3>
+<p>A full-stack web application to help users track their daily expenses. Features user authentication, expense categorization, and data visualization for better financial planning.</p>
+<p><strong>Technologies:</strong> React, Spring Boot, Hibernate, MySQL</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Anpatil1/ipl-win-prediction" target="_blank">IPL Win Predictor</a></h3>
+<p>A machine learning model that predicts the winning probability of an IPL team based on real-time match data. A fun project combining my passion for cricket and data science.</p>
+<p><strong>Technologies:</strong> Python, Scikit-learn, Flask, HTML/CSS</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Anpatil1/real-spring-chat" target="_blank">Real-Time Chat Application</a></h3>
+<p>A WebSocket-based real-time chat application allowing multiple users to communicate instantly. Built with a focus on performance and scalability.</p>
+<p><strong>Technologies:</strong> Java, Spring Boot, WebSockets, JavaScript</p>
+</td>
+</tr>
+</table>
 
-## 📫 How to reach me
+📫 Get In Touch
+I'm always open to connecting with new people. Feel free to reach out!
 
-- **Email**: [nangareavadhut@gmail.com]
-- **LinkedIn**: [Avadhut Nangare Patil](https://www.linkedin.com/in/avadhut-nangare-patil-470901250/)
+<p align="left">
+<a href="mailto:nangareavadhut@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/avadhut-nangare-patil-470901250/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Anpatil1" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+</a>
+</p>
 
-## ⚡ Fun Fact
-
-I love exploring new technologies and keeping myself updated with the latest trends in the tech world. When I'm not coding, you can find me reading tech blogs or playing video games.
-
----
-
-Feel free to check out my repositories and get in touch if you'd like to collaborate on any projects or just have a chat about tech!
-
-[![GitHub followers](https://img.shields.io/github/followers/Anpatil1?label=Follow&style=social)](https://github.com/Anpatil1)
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DAnpatil1%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Profile views" />
+</p>
